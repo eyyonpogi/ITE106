@@ -6,7 +6,7 @@ public class main{
 
     public static void main(String[] args) {
         try {
-            File file = new File("input.txt");
+            File file = new File("eyyonpogi.txt");
             Scanner scanner = new Scanner(file);
             StringBuilder text = new StringBuilder();
 
